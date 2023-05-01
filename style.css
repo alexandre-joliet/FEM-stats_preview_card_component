@@ -1,0 +1,23 @@
+/* GENERAL */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  color:  white;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+
+.card-main {
+  background-color: hsl(244, 38%, 16%);
+}
+
+
+/* DETAILS */
+
