@@ -23,14 +23,12 @@ p {
   font-size: 15px;
 }
 
-
-
 .card-main {
   background-color: hsl(244, 38%, 16%);
 }
 
 
-/* DETAILS */
+/* TEXT DETAILS */
 
 .card-main {
   display: flex;
@@ -45,16 +43,12 @@ h1 strong {
   color: hsl(277, 64%, 61%);
 }
 
-img {
-  border-radius: 0 10px 10px 0;
-}
-
 .card-textbox {
   padding: 0 110px 0 80px;
 }
 
 .card-text {
-  line-height: 1.5em;
+  line-height: 1.75em;
   padding: 10px 0 50px 0;
 }
 
@@ -67,7 +61,6 @@ h2,
 .stats-main p {
   margin: 0;
   padding-bottom: 10px;
-  
 }
 
 .stats-main p {
@@ -75,4 +68,30 @@ h2,
   font-size: 0.75em;
   letter-spacing: 2px;
   color: hsla(0, 0%, 100%, 0.6);
+}
+
+/* PICTURE DETAILS */
+
+.picture-section {
+  position: relative;
+  height: auto;
+}
+
+img {
+  display: block;
+  border-radius: 0 10px 10px 0;
+  height: 100%;
+  position: relative;
+  opacity: 65%;
+  mix-blend-mode: overlay;
+}
+
+.picture-overlay {
+  position: absolute;
+  background-color: hsl(277, 64%, 61%, 0.5);
+  border-radius: 0 10px 10px 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
