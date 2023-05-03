@@ -11,7 +11,18 @@
 
 body {
   background-color: hsl(233, 47%, 7%);
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+}
+
 
 
 .card-main {
@@ -21,3 +32,47 @@ body {
 
 /* DETAILS */
 
+.card-main {
+  display: flex;
+  width: 1100px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border-radius: 10px;
+}
+
+h1 strong {
+  color: hsl(277, 64%, 61%);
+}
+
+img {
+  border-radius: 0 10px 10px 0;
+}
+
+.card-textbox {
+  padding: 0 110px 0 80px;
+}
+
+.card-text {
+  line-height: 1.5em;
+  padding: 10px 0 50px 0;
+}
+
+.stats-main {
+  display: flex;
+  justify-content: space-between;
+}
+
+h2,
+.stats-main p {
+  margin: 0;
+  padding-bottom: 10px;
+  
+}
+
+.stats-main p {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 0.75em;
+  letter-spacing: 2px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
