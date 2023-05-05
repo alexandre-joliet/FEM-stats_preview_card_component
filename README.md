@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JojoRider/FEM-stats_preview_card_component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/JojoRider/FEM-stats_preview_card_component]
+- Live Site URL: [https://jojorider.github.io/FEM-stats_preview_card_component/]
 
 ---
 
@@ -48,7 +48,9 @@ After several months without programming, this project was like a warm up to div
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Blend modes that I didn't know about at all. I played with them a bit but I could not achieve the same result as the initial design. I had to add a back layer to the picture and play with opacity to match the right color.
+
+I also needed some time to remind me that I needed to use display:block if I want an element to fill one another. Typically for my picture here!
 
 
 
