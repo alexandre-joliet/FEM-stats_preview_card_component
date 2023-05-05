@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/JojoRider/FEM-stats_preview_card_component]
-- Live Site URL: [https://jojorider.github.io/FEM-stats_preview_card_component/]
+- Solution URL: https://github.com/JojoRider/FEM-stats_preview_card_component
+- Live Site URL: https://jojorider.github.io/FEM-stats_preview_card_component/
 
 ---
 
@@ -56,9 +56,7 @@ I also needed some time to remind me that I needed to use display:block if I wan
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+It was a good excercise to get back to basic programming. Let's go for more complex projetcs now!
 
 ---
 
