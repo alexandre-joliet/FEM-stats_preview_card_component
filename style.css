@@ -81,6 +81,7 @@ img {
   display: block;
   border-radius: 0 10px 10px 0;
   height: 100%;
+  width: auto;
   position: relative;
   opacity: 65%;
   mix-blend-mode: overlay;
